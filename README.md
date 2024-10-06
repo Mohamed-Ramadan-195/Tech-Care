@@ -27,7 +27,8 @@ TechCare is an application designed to automate services in the health insurance
 
 # How to get this application?
   Just contact us via these emails :
-    * ``` mohamed.ramadan19502@gmail.com ```
+   * ``` mohamed.ramadan19502@gmail.com ```
+   * ``` alisaied325@gmail.com ```
 
 # Automation Services
   ![light on hand ](https://github.com/user-attachments/assets/7d0943f1-8e6b-4318-a2de-e75f84daa5e6)
